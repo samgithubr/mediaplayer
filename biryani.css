@@ -1,0 +1,37 @@
+body
+{
+    height: 180vh;
+    width: 180%;
+    background-image: linear-gradient(rgb(179, 245, 74),rgb(22, 243, 59));
+}
+h1
+{
+    padding-top: 0.2%;
+    font-size: 30px;
+    font-family: cursive;
+    color: black ;
+    padding-left:2.5%;
+    text-decoration-line: underline;
+    
+}
+#img1
+{
+    display: block;
+    margin-left:20%;
+    height:250px;
+    border-radius:10%;
+    opacity: 1;
+}
+.req
+{  
+    font-size: 20px;
+    margin-left:10%;
+   
+   
+}
+.ing
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 3%;
+    text-decoration-line: underline;
+}
